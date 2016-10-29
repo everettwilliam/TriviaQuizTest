@@ -55,6 +55,7 @@ public class QuizSplashActivity extends QuizActivity {
     }
 
     protected void onPause() {
+        //just a wee comment here
         super.onPause();
         //Stop the animation
         TextView logo1 = (TextView) findViewById(R.id.TextViewTopTitle);
