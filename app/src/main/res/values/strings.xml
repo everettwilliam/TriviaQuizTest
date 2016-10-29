@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Been There, Done That!</string>
+    <string name="help">Help Screen</string>
+    <string name="menu">Main Menu</string>
+    <string name="settings">Settings Screen</string>
+    <string name="game">Game Screen</string>
+    <string name="scores">Scores Screen</string>
+    <string name="topTitle">Been There</string>
+    <string name="bottomTitle">Done That!</string>
+    <string name="vinfo">Version 1.0 (c) Daisy Chubb Studios</string>
+    <string name="menu1">Play Game</string>
+    <string name="menu2">View Scores</string>
+    <string name="menu3">Settings</string>
+    <string name="menu4">Help</string>
+</resources>

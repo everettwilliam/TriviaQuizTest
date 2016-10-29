@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/titleFont"
+    android:textColor="@color/vtext"
+    android:text="test String"
+    android:layout_gravity="center_horizontal"
+    android:shadowRadius="5"
+    android:gravity="center"
+    android:shadowColor="@color/titleText"
+    android:shadowDx="3"
+    android:shadowDy="3">
+
+</TextView>
